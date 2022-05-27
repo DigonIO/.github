@@ -6,4 +6,6 @@
 </div>
 </br>
 
+<div align="center">
 [Digon.IO GmbH](https://github.com/DigonIO) - Data science & software development
+</div>
