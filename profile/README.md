@@ -5,7 +5,8 @@
   </a>
 </div>
 </br>
+</br>
 
 <div align="center">
-[Digon.IO GmbH](https://github.com/DigonIO) - Data science & software development
+  <a href="https://digon.io">Digon.IO GmbH</a> - Data science & software development
 </div>
